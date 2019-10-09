@@ -1,11 +1,14 @@
 # Test_Driven_Development_-Gem_Ruby-
 A FINIR 
 
+<hr />
+
 
 L'ÉNONCÉ
 Si on liste tous les entiers naturels strictement inférieurs à 11 et qui sont multiples de 3 ou 5, on obtient 3, 5, 6, 9 et 10. La somme de ces nombres est égale à 33. 
 => Trouve la somme des entiers naturels strictement inférieurs à 1000 et qui sont multiples de 3 ou 5.
 
+<hr /> 
 
 APPROCHE ANALYTIQUE
 
